@@ -1,0 +1,8 @@
+{
+    "name": "VellaKovil Marathon",
+    "short_name": "VK Marathon",
+    "start_url": ".",
+    "background_color": "#ee1e46",
+    "theme_color": "#ee1e46",
+    "display": "standalone"
+}
